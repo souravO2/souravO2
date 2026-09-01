@@ -1,6 +1,3 @@
-Nobody cares about some fancy look, it's all about outcome.
-
-
 📫 Mail Me at **saifurrahmansourav93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
