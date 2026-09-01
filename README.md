@@ -3,10 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/saifur-rahman-sourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/saifur-rahman-sourav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saifur-rahman-sourav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/saifur-rahman-sourav" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sourav_993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/sourav_993" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/sourav02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sourav02/" height="30" width="40" /></a>
-<a href="https://discord.gg/933938469795926027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="933938469795926027" height="30" width="40" /></a>
+<a href="https://discord.com/users/s.0.v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="933938469795926027" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
