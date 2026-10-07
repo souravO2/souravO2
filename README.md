@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&font=Fira+Code&duration=400&pause=2000&center=true&width=900&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+
 📫 Mail Me at **saifurrahmansourav93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
